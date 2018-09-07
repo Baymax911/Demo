@@ -1,4 +1,4 @@
-package com.test.basic;
+package com.test.basic.chapterTwo;
 
 public class Parameter2 {
 	

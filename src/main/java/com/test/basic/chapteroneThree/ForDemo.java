@@ -1,4 +1,4 @@
-package com.test.basic;
+package com.test.basic.chapteroneThree;
 
 /*
  * 1到100的和

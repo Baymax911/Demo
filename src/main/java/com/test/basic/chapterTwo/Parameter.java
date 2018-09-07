@@ -1,4 +1,4 @@
-package com.test.basic;
+package com.test.basic.chapterTwo;
 
 /*
  * 算术运算符
