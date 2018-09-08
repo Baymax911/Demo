@@ -8,7 +8,7 @@ public class ArrayDemo {
 	 * 数组
 	 */
 	public static void main(String[] args) {
-		int[] arr={11,2,9,5,3};
+		int arr[]={11,2,9,5,3};
 		System.out.println(Arrays.toString(arr)); 
 		//toString更改数组，toString()方法可以把数组转化为字符串，并返回结果
 		int sum=0;
