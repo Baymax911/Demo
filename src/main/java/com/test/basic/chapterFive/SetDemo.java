@@ -1,4 +1,4 @@
-package com.test.basic.chapteFive;
+package com.test.basic.chapterFive;
 
 import java.util.HashSet;
 import java.util.Set;
